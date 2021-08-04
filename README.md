@@ -4,7 +4,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=radical" alt="Widanta" /></p>
 
 Follow :
-👉 [Instagram](https://www.instagram.com/widantaa_/Widanta?utm_source=github)
+👉 [Instagram](https://www.instagram.com/widantaa_/)
 
 
 
