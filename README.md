@@ -3,10 +3,12 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=radical" alt="Widanta" /></p>
 
-Follow :
+### Link :
 <br>
 👉 [Instagram](https://www.instagram.com/widantaa_/)
+<br>
 👉 [Dribbble](https://dribbble.com/Widanta)
+<br>
 👉 [Github](https://github.com/Widanta)
 
 
