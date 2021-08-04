@@ -6,11 +6,11 @@ Link :
 <br>
 :link: [Instagram](https://www.instagram.com/widantaa_/)
 <br>
-👉 [Dribbble](https://dribbble.com/Widanta)
+:link: [Dribbble](https://dribbble.com/Widanta)
 <br>
-👉 [Github](https://github.com/Widanta)
+:link: [Github](https://github.com/Widanta)
 <br>
-👉 [WhatsApp](https://wa.me/+6287784793721)
+:link: [WhatsApp](https://wa.me/+6287784793721)
 
 
 
