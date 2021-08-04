@@ -3,7 +3,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=radical" alt="Widanta" /></p>
 
-
+Follow :
+<a href="https://www.instagram.com/widantaa_"><i class="bi bi-instagram"></i></a>
 <!--
 **Widanta/Widanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
