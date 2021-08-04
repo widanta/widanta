@@ -4,7 +4,7 @@
 
 Link :
 <br>
-👉 [Instagram](https://www.instagram.com/widantaa_/)
+:link: [Instagram](https://www.instagram.com/widantaa_/)
 <br>
 👉 [Dribbble](https://dribbble.com/Widanta)
 <br>
