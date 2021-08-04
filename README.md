@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Widanta_icons=true&theme=nightowl&locale=en" alt="widanta" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Widanta" /></p>
+
 
 <!--
 **Widanta/Widanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
