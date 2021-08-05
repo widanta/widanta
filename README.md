@@ -1,6 +1,8 @@
 # Hii 👋
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=tokyonight" alt="Widanta" /></p>
+<center>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=tokyonight" alt="Widanta" /></p>
+</center>
 
 ## :fleur_de_lis: Social :
 :link: [Instagram](https://www.instagram.com/widantaa_/)<br>
