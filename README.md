@@ -4,8 +4,8 @@
 
 ## :fleur_de_lis: Social :
 :link: [Instagram](https://www.instagram.com/widantaa_/)<br>
-:link: [You Tube](https://www.facebook.com/imade.widanta.5)<br>
-:link: [Facebook](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
+:link: [Facebook](https://www.facebook.com/imade.widanta.5)<br>
+:link: [You tube](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
 
 ## :fleur_de_lis: Link :
 :link: [Dribbble](https://dribbble.com/Widanta)<br>
