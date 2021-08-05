@@ -7,13 +7,9 @@
 :link: [You Tube](https://www.instagram.com/widantaa_/)<br>
 :link: [Facebook](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
 
-<br>
-:link: [Instagram](https://www.instagram.com/widantaa_/)
-<br>
-:link: [Dribbble](https://dribbble.com/Widanta)
-<br>
-:link: [Github](https://github.com/Widanta)
-<br>
+## :fleur_de_lis: Link :
+:link: [Dribbble](https://dribbble.com/Widanta)<br>
+:link: [Github](https://github.com/Widanta)<br>
 :link: [WhatsApp](https://wa.me/+6287784793721)
 
 
