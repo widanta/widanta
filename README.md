@@ -8,8 +8,10 @@
 [<img src="img/facebook.png" alt="fb" width="30px">](https://www.facebook.com/imade.widanta.5)
 [<img src="img/youtube.png" alt="yt" width="30px">](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
 
-## :fleur_de_lis: Link :
-:link: [Dribbble](https://dribbble.com/Widanta)<br>
+## :fleur_de_lis: Tool :
+[<img src="img/vscode.png" alt="vscode" width="30px">]
+[<img src="img/figma.png" alt="figma" width="30px">]
+[<img src="img/dribbble.png" alt="ig" width="30px">](https://dribbble.com/Widanta)
 :link: [Github](https://github.com/Widanta)<br>
 :link: [WhatsApp](https://wa.me/+6287784793721)
 
