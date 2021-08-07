@@ -11,8 +11,8 @@
 ## :fleur_de_lis: Tool :
 [<img src="img/vscode.png" alt="vscode" width="30px">](https://code.visualstudio.com/)
 [<img src="img/figma.png" alt="figma" width="30px">](https://www.figma.com/files/user/910320163750261855?fuid=910320163750261855)
-[<img src="img/dribbble.png" alt="ig" width="30px">](https://dribbble.com/Widanta)
-:link: [Github](https://github.com/Widanta)<br>
+[<img src="img/dribbble.png" alt="dribble" width="30px">](https://dribbble.com/Widanta)
+[<img src="img/github.png" alt="github" width="30px">](https://github.com/Widanta)
 :link: [WhatsApp](https://wa.me/+6287784793721)
 
 
