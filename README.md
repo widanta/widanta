@@ -3,9 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=tokyonight" alt="Widanta" />
 
 ## :fleur_de_lis: Social :
+<!-- sosial  -->
 [<img src="img/instagram.png" alt="ig" width="30px">](https://www.instagram.com/widantaa_/)
-:link: [Instagram](https://www.instagram.com/widantaa_/)<br>
-:link: [Facebook](https://www.facebook.com/imade.widanta.5)<br>
+[<img src="img/facebook.png" alt="fb" width="30px">](https://www.facebook.com/imade.widanta.5)
 :link: [You tube](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
 
 ## :fleur_de_lis: Link :
