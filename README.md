@@ -1,6 +1,6 @@
 # Hii 👋
 
-![Widanta GitHub stats](https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=radical)
+![Widanta GitHub stats](https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=tokyonight)
 
 
 ## :fleur_de_lis: Social :
@@ -34,4 +34,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 👋
+
+Sumber :
+https://www.flaticon.com/
+https://www.freepik.com/
 -->
