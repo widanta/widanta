@@ -6,7 +6,7 @@
 <!-- sosial  -->
 [<img src="img/instagram.png" alt="ig" width="30px">](https://www.instagram.com/widantaa_/)
 [<img src="img/facebook.png" alt="fb" width="30px">](https://www.facebook.com/imade.widanta.5)
-:link: [You tube](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
+[<img src="img/youtube.png" alt="yt" width="30px">](https://www.youtube.com/channel/UCT-EcPYl-tJ9elP_RKibUNg/featured?view_as=subscriber)
 
 ## :fleur_de_lis: Link :
 :link: [Dribbble](https://dribbble.com/Widanta)<br>
