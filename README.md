@@ -1,6 +1,6 @@
 # Hii 👋
 
-![Widanta GitHub stats](https://github-readme-stats.vercel.app/api?username=Widanta_icons=true&theme=radical)
+![Widanta GitHub stats](https://github-readme-stats.vercel.app/api?username=Widanta&show_icons=true&theme=radical)
 
 
 ## :fleur_de_lis: Social :
