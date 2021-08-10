@@ -12,7 +12,7 @@
 <br><br>
 ## :fleur_de_lis: Tools :
 <!-- tools -->
-[<img src="img/vscode.png" alt="vscode" width="30px">](https://code.visualstudio.com/)
+<img src="img/vscode.png" alt="vscode" width="30px">
 [<img src="img/figma.png" alt="figma" width="30px">](https://www.figma.com/files/user/910320163750261855?fuid=910320163750261855)
 [<img src="img/dribbble.png" alt="dribble" width="30px">](https://dribbble.com/Widanta)
 [<img src="img/github.png" alt="github" width="30px">](https://github.com/Widanta)
